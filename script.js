@@ -1,4 +1,3 @@
-function sayHello(){
-    alert("Say hello!")
+function sayHello(name) {
+    alert(`My name is ${name}!`)
 }
-
